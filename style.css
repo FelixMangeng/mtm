@@ -1,0 +1,292 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Martel:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  margin: 0;
+  background-color: white;
+}
+
+  .logo{
+  background-color: #CCCCCC;
+  color: #6D6A75;
+  text-align: center;
+  font-size: 60px;
+   font-weight: bold;
+   padding: 20px;
+  text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+.mtm{
+  border-bottom: 80px solid;
+  border-left: 80px solid;
+  margin-left: 500px;
+  border-top: 2px solid;
+  margin-bottom: 150px;
+  border-right: 2px solid;
+  margin-top: 50px;
+  font-family: light semi;
+}
+
+.-raumdesign{
+  margin-top: 140px;
+  font-size: 33px;
+  margin-right: 510px;
+}
+
+.urd{
+  font-size: 20px;
+  color: #6D6A75;  
+  text-align: right;
+  margin-right: 20px;
+  
+}
+
+.name{
+  background-color: gray;
+  color: white;
+  text-align: center;
+  font-size: 30px;  
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-top: 50px;
+  font-family: 'Martel', serif;
+}
+
+.info{
+  background-color: white;
+  text-align: left;
+  margin-left: 150px;
+  margin-top: 115px;
+  margin-bottom: 115px; 
+  font-size: 25px;
+  font-family: 'Martel', serif;
+}
+
+.unterfoto{
+  text-align: center; 
+  margin-top: 95px;
+  margin-bottom: 95px;
+  font-size: 37px;
+  font-family: 'Dancing Script', cursive;
+  margin-left: 50px;
+  margin-right: 350px;
+}
+
+.meinlebenslauf{
+  text-align: left; 
+  margin-right: 170px;
+    font-family: 'Martel', serif;
+  font-size: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+img{
+   max-width: 100%;
+  
+  text-align: center;
+  
+}
+
+.limit-content{
+  background-color: gray;
+  max-width: 500px;
+  text-align: center;
+  margin-left: 350px;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  
+}
+
+
+
+
+.übermich{
+   font-family: 'Martel', serif;
+  color: white;
+  text-decoration: none;
+   
+}
+
+.philosophie{
+  color: white;
+   text-decoration: none;
+  font-family: 'Martel', serif;
+}
+
+.leistungen{
+   font-family: 'Martel', serif;
+   color: white;
+    text-decoration: none;
+}
+
+.anfahrtsplan{
+   font-family: 'Martel', serif;
+  color: white;
+   text-decoration: none;
+}
+
+.kontaktanfrage{
+   font-family: 'Martel', serif;
+    color: white;
+   text-decoration: none;
+}
+
+.impressum{
+   font-family: 'Martel', serif;
+  color: white;
+   text-decoration: none;
+}
+
+.pt{
+  text-align: left;
+  margin-left: 350px;
+  font-size: 25px;
+}
+
+.li{
+  font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.üüm{
+  margin-left: 250px;
+  margin-right: auto;
+  margin-top: 250px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-family: 'Martel', serif;
+}
+
+.üp{
+  margin-left: 350px;
+  margin-right: auto;
+  margin-top: 250px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-family: 'Martel', serif;
+}
+
+.ül{
+  margin-left: 350px;
+  margin-right: auto;
+  margin-top: 250px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-family: 'Martel', serif;
+}
+
+.üa{
+  margin-left: 350px;
+  margin-right: auto;
+  margin-top: 250px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-family: 'Martel', serif;
+}
+
+.ük{
+  margin-left: 350px;
+  margin-right: auto;
+  margin-top: 250px;
+  margin-bottom: 20px;
+  font-size: 25px;
+  font-family: 'Martel', serif;
+}
+
+.üi{
+  margin-left: 350px;
+  margin-right: auto;
+  margin-top: 250px;
+  margin-bottom: 20px;
+  font-size: 25px;
+  font-family: 'Martel', serif;
+}
+
+.üm-2{
+  background-color: gray;
+  color: white;
+  font-size: 30px;
+  margin-right: 700px;
+  text-align: center;
+  margin-left: 600px;
+  margin-right: 600px;
+  font-family: 'Martel', serif;
+}
+
+.üp-2{
+  background-color: gray;
+  color: white;
+   font-size: 30px;
+  margin-right: 700px;
+  text-align: center;
+   margin-left: 600px;
+  margin-right: 600px;
+  font-family: 'Martel', serif;
+}
+
+.ül-2{
+  background-color: gray;
+  color: white;
+   font-size: 30px;
+  margin-right: 700px;
+  text-align: center;
+   margin-left: 600px;
+  margin-right: 600px;
+  font-family: 'Martel', serif;
+}
+
+.üa-2{
+  background-color: gray;
+  color: white;
+   font-size: 30px;
+  margin-right: 700px;
+  text-align: center;
+   margin-left: 600px;
+  margin-right: 600px;
+  font-family: 'Martel', serif;
+}
+
+.ük-2{
+  background-color: gray;
+  color: white;
+   font-size: 30px;
+  margin-right: 700px;
+  text-align: center;
+   margin-left: 600px;
+  margin-right: 600px;
+  font-family: 'Martel', serif;
+}
+
+
+.üi-2{
+  background-color: gray;
+  color: white;
+   font-size: 30px;
+  margin-right: 700px;
+  text-align: center;
+   margin-left: 600px;
+  margin-right: 600px;
+  font-family: 'Martel', serif;
+}
